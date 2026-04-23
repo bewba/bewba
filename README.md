@@ -7,7 +7,7 @@ I am interested in very technical projects that incorporates IoT and AI
 My main techstacks at the moment involves Sveltekit and some python, but I'm currently learning computer vision, cloud infrastructure, and IoT by building real world solutions. 
 
 ## My current tech stack & environment
-- OS: Fedora Linux
+- OS: Fedora Linux, Windows
 - Languages and Framworks (I use often): Sveltekit, React, Typescript, JavaScript, Python, C++
 
 ## Active Projects

@@ -19,6 +19,7 @@ One day, I hope to build something that impacts the Philippines.
 ## Fun facts
 - I love football and I boulder at times (tho im terrible at bouldering lol)
 - I have a corgi named Jack
+- I am the worst golf player to ever touch an iron
 
 
 <!--
